@@ -1,3 +1,3 @@
 <?php 
-  echo "<h1>hashdhashdah</h1>";
+  require_one("home.html");
 ?>
