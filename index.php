@@ -1,3 +1,3 @@
 <?php 
-  include_once("home.html");
+  echo "<h1>hashdhashdah</h1>";
 ?>
